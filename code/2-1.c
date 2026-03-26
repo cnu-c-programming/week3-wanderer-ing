@@ -6,7 +6,7 @@ void increment(int x){
 }
 
 int main() {
-    int x=0;
+    int x=10;
 
     printf("%d\n", x);
     increment(x);
